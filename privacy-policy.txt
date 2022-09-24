@@ -1,0 +1,5 @@
+Daily Space Wallpaper App Privacy Policy
+
+The Daily Space Wallpaper app ("the App") does not collect, use, or share user data.
+
+The App communicates with the NASA API (https://api.nasa.gov/) to retrieve information about the current NASA Astronomy Picture of the Day, and to download the picture to set as the wallpaper; as such, the NASA API will receive and could potentially record information sent in those requests. Please refer to the NASA API privacy policy for more information.
